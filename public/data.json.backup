@@ -1,0 +1,57 @@
+{
+  "신현규": {
+    "id": 1,
+    "name": "신현규",
+    "startTime": "00:00",
+    "stopTime": "00:00",
+    "status": "stop",
+    "totalTime": 0,
+    "timeThisWeek": 0,
+    "timeToday": 0,
+    "lastWeekPenalty": 0
+  },
+  "양성원": {
+    "id": 2,
+    "name": "양성원",
+    "startTime": "00:00",
+    "stopTime": "00:00",
+    "status": "stop",
+    "totalTime": 0,
+    "timeThisWeek": 0,
+    "timeToday": 0,
+    "lastWeekPenalty": 0
+  },
+  "강신권": {
+    "id": 3,
+    "name": "강신권",
+    "startTime": "00:00",
+    "stopTime": "00:00",
+    "status": "stop",
+    "totalTime": 0,
+    "timeThisWeek": 0,
+    "timeToday": 0,
+    "lastWeekPenalty": 0
+  },
+  "임정훈": {
+    "id": 4,
+    "name": "임정훈",
+    "startTime": "00:00",
+    "stopTime": "00:00",
+    "status": "stop",
+    "totalTime": 0,
+    "timeThisWeek": 0,
+    "timeToday": 0,
+    "lastWeekPenalty": 0
+  },
+  "송주하": {
+    "id": 5,
+    "name": "송주하",
+    "startTime": "00:00",
+    "stopTime": "00:00",
+    "status": "stop",
+    "totalTime": 0,
+    "timeThisWeek": 0,
+    "timeToday": 0,
+    "lastWeekPenalty": 0
+  }
+}
